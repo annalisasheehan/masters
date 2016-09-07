@@ -16,4 +16,4 @@ However, to run the code in the environment in which it was written use the envi
 The code in this repository reprojects MAIAC AOT images from WGS84 datum into the British National Grid and converts AOT measurements into PM2.5 estimates. Additionally, the code analyses the PM2.5 data to investigate how PM2.5 is changing spatially and temporally over Wessex and the impact on hospital admissions for circulatory and respiratory diseases.
 
 The different jupyter notebooks correspond to different sections of my thesis. 
-Section 3.3.1 - Reprojecting_MAIAC_data.ipynb
+- Section 3.3.1 - Reprojecting_MAIAC_data.ipynb
